@@ -1,1 +1,1 @@
-this is javascript
+javascript is a programming language its help to interactivity and dynamic behavior to websites.
