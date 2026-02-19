@@ -1,0 +1,2 @@
+string is a sequence of characters used to represent text data.
+eg: "pratik";'My name is pratik'
