@@ -1,0 +1,5 @@
+const is a fixed value its not change
+1 time code used do not change code any or more time 
+
+const pi = 3.14;
+pi = 4

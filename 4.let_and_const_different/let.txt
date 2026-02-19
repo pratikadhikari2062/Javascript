@@ -1,0 +1,5 @@
+let is a more time change value its a dynamic 
+its change to code easy
+
+let score = 10;
+score = 15;
